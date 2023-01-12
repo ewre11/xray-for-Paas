@@ -1,5 +1,9 @@
 # xray for PaaS
 
+TIPS: 可点击仓库的“Use this template”在仓库的原基础上创建私库
+
+![image](https://user-images.githubusercontent.com/122191366/212063458-2def0e1a-805a-4451-ae62-324b67abee47.png)
+
 ## 项目特点
 * 本项目用于在任意一家PaaS云服务商部署xray ，采用的方案为 Nginx + WebSocket + VMess/Vless/Trojan + TLS
 * xray 核心文件和配置文件作了“特殊处理”，每个项目都不同，大大降低被封和连坐风险
